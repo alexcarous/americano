@@ -1,0 +1,5 @@
+This enables the Americano keyboard layout in Chrome OS (see chrome://setting/languages).
+
+Modify the background.js file to meet your needs before installation.
+
+Project by Alex Caro, using esperantoremap from Google's extra-keyboards-for-chrome-os.
